@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://cdj78hdkxhsru"]
+
+[ext_resource type="Script" uid="uid://fbi01x27d8cv" path="res://node.gd" id="1_sy5k4"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_sy5k4")
+
+[node name="IdleTimer" type="Timer" parent="."]
+one_shot = true
+autostart = true
+
+[node name="RunTimer" type="Timer" parent="."]
+wait_time = 2.0
+one_shot = true
+autostart = true

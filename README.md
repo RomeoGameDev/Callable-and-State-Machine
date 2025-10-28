@@ -19,7 +19,3 @@ Ten projekt to niewielki przykład stworzony w silniku **Godot 4**, demonstrują
 - Jak budować prostą maszynę stanów, która przechowuje `Callable` dla logiki stanu, wejścia oraz wyjścia.
 - Jak używać timerów i sygnałów w Godot do sterowania przełączaniem stanów.
 - Jak organizować kod, aby łatwo rozszerzać zestaw dostępnych stanów.
-
-## Notatka
-
-Nauka | przykład pochodzi z kursu Udemy, zgodnie z opisem oryginalnego materiału.
